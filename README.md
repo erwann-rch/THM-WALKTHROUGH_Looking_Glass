@@ -1,4 +1,4 @@
-# [THM-WALKTHROUGH] Wonderland
+# [THM-WALKTHROUGH] Looking Glass
 
 ## *$ First Step : Enumeration*
 I started to enumerate open ports with `nmap` but I was surprised seeing almost every port between 9000 and 13999 were running SSH. 
